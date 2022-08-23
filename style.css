@@ -1,0 +1,20 @@
+
+
+.jumbotron{
+	padding-top: 6rem;
+	background-color: #e2deff;
+}
+
+#projects{
+	background-color: #e2deff;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+@media (max-width: 576px){
+	.card-body{
+		text-align: center;
+	}
+}
